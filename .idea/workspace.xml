@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2442d5b9-4b53-45f9-9d07-fc1724fcdd10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dN1yVMLTErTL1WkKWA3XZwrZG7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2442d5b9-4b53-45f9-9d07-fc1724fcdd10" name="Default Changelist" comment="" />
+      <created>1592250991778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592250991778</updated>
+      <workItem from="1592251000360" duration="6646000" />
+      <workItem from="1592258512499" duration="1262000" />
+      <workItem from="1592260183759" duration="1350000" />
+      <workItem from="1592261741644" duration="2532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592251378340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1592251378340" />
+    <state width="1237" height="241" key="GridCell.Tab.0.bottom" timestamp="1592264301966">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592264301966" />
+    <state width="1237" height="241" key="GridCell.Tab.0.center" timestamp="1592264301966">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592264301966" />
+    <state width="1237" height="241" key="GridCell.Tab.0.left" timestamp="1592264301966">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592264301966" />
+    <state width="1237" height="241" key="GridCell.Tab.0.right" timestamp="1592264301966">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="241" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592264301966" />
+    <state x="51" y="23" width="732" height="631" key="Maven.ArtifactSearchDialog" timestamp="1592257943035">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="51" y="23" width="732" height="631" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1592257943035" />
+  </component>
+</project>
